@@ -1,5 +1,5 @@
-# intro
-This is the place where we are keeping our code, and tracking its changes over time
+# Introduction
+This is the place where we are keeping our code and tracking its changes over time
 
 # Possible projects to include here:
 - Neural coding in motor behavior in songbirds
